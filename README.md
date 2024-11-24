@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
+# Thiago 
 ## Sobre mim
 
 - 🎓 Estudando Desenvolvimento de sistemas no SENAI Suiço-Brasileira.
