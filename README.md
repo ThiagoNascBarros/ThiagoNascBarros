@@ -37,4 +37,3 @@
 
 ## Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nascimento-barros-b2b872274/)
-[![Gmail Badge](https://img.shields.io/badge/-tdonascimentobarros@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tdonascimento@gmail.com)](mailto:tdonascimentobarros@gmail.com)
