@@ -1,7 +1,8 @@
-# Thiago 
+# Thiago Nascimento Barros
+
 ## Sobre mim
 
-- 🎓 Estudando Desenvolvimento de sistemas no SENAI Suiço-Brasileira.
+- 🎓 Estudando Desenvolvimento de Sistemas no SENAI Suiço-Brasileira.
 - 🌱 Aprendendo mais sobre Java e Frameworks.
 
 ## Minhas Skills
@@ -22,11 +23,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,&perline=3)](https://skillicons.dev)
 
-<br/>
+## Projetos
 
-<a href="https://github.com/ThiagoNascBarros" title="Perfil Thiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoNascBarros&theme=dracula&show_icons=true" />
-</a>
+### NoteManager
+O NoteManager é uma aplicação de boletim que permite a gestão de notas de alunos emum ambiente escolar. Este foi um projeto integrador que atuei como front-end.
+- [Link para o repositório](https://github.com/ThiagoNascBarros/NoteManager)
+
+## Estatísticas GitHub
+
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoNascBarros&theme=dracula&show_icons=true)](https://github.com/ThiagoNascBarros)
 
 ## Onde me encontrar
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nascimento-barros-b2b872274/)
+
+### Contato
+- 📧 Email: [tdonascimentobarros@gmail.com](mailto: tdonascimentobarros@gmail.com)
