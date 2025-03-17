@@ -36,6 +36,3 @@ O NoteManager é uma aplicação de boletim que permite a gestão de notas de al
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-nascimento-barros-b2b872274/)
-
-### Contato
-- 📧 Email: [tdonascimentobarros@gmail.com](mailto: tdonascimentobarros@gmail.com)
