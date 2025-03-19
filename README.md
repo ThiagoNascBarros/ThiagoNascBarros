@@ -40,7 +40,7 @@ Este repositório é um projeto pessoal onde construir uma API utilizando NodeJS
   
 
 ### API de gerenciamento de usuários
-Construir está API para minha apresentação proposta pelo professor Sergio Gal que ministra as aulas de Back-end no ensino técnico no Senai Suíço-Brasileira.
+Construi esta API para minha apresentação proposta pelo professor Sergio Gal que ministra as aulas de Back-end no ensino técnico no Senai Suíço-Brasileira.
 #### Tecnologias
 - Java
 - Spring boot
