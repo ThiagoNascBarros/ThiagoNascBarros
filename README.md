@@ -3,10 +3,10 @@
 ## About me
 - 🎓 Studying Systems Development at SENAI Swiss-Brazilian.
 - 🌱 Learning more about Java and Frameworks.
-- 💼 Interested in back-end development and DevOps.
+- 💼 Interested in back-end development.
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,mongodb,mysql,postgres,docker,postman,git,github,gcp,idea,eclipse,linux&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,mysql,postgres,postman,git,github,gcp,idea,eclipse,linux&theme=light&perline=6)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThiagoNascBarros&theme=radical&no-frame=false&no-bg=true&margin-w=4)
