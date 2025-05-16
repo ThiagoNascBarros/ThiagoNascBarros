@@ -6,7 +6,7 @@
 - 💼 Interested in back-end development.
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,nodejs,mysql,postgres,postman,git,github,gcp,idea,eclipse,linux&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,mysql,postgres,git,github,gcp&theme=light&perline=3)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThiagoNascBarros&theme=radical&no-frame=false&no-bg=true&margin-w=4)
