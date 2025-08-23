@@ -8,9 +8,6 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,mysql,postgres,git,github,gcp&theme=light&perline=3)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThiagoNascBarros&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThiagoNascBarros&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 
