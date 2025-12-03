@@ -1,20 +1,34 @@
-# Hello! I'm Thiago👋
+# 👋 Olá! Sou Thiago
 
-## About me
-- 🎓 Studying Systems Development at SENAI Swiss-Brazilian.
-- 🌱 Learning more about Java and Frameworks.
-- 💼 Interested in back-end development.
+> Backend developer apaixonado por clean code e arquitetura escalável.
 
-## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,mysql,postgres,git,github&theme=light&perline=9)](https://skillicons.dev)
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThiagoNascBarros&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+## 🧑‍💻 Sobre Mim
 
-![](https://nirzak-streak-stats.vercel.app/?user=ThiagoNascBarros&theme=aura&hide_border=false)
+- 🎓 Estudando Desenvolvimento de Sistemas na **SENAI Swiss-Brazilian**
+- 💼 Focado em **desenvolvimento backend** (.NET, APIs, banco de dados)
+- 🌱 Aprendendo **Java**, **Spring** e **arquiteturas modernas**
+- ⚙️ Interessado em **cloud**, **DDD** e **boas práticas**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoNascBarros&theme=aura&card_width=600&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🛠 Tech Stack
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tdonascimentobarros@gmail.com) 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,javascript,typescript,react,postgres,mysql,git,github,docker,aws,gcp&theme=light&perline=8)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoNascBarros&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoNascBarros&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoNascBarros&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff)
+
+---
+
+## 🌐 Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiago171nasciment@gmail.com)
