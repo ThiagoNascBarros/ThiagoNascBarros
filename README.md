@@ -20,30 +20,42 @@ I list only what I actually use, grouped by how familiar I am with each one.
 
 ### 🟢 Daily use
 <!-- TODO(Thiago): confirm/adjust this list -->
-[![Dia a dia](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github&theme=dark)](https://skillicons.dev)
+[![Daily use](https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🟡 Currently learning
 <!-- TODO(Thiago): confirm/adjust this list -->
-[![Estudando](https://skillicons.dev/icons?i=docker,typescript,react&theme=dark)](https://skillicons.dev)
+[![Currently learning](https://skillicons.dev/icons?i=docker,typescript,react&theme=dark)](https://skillicons.dev)
 
 ### ⚪ Some exposure
 <!-- TODO(Thiago): confirm/adjust this list -->
-[![Contato](https://skillicons.dev/icons?i=java,spring,javascript,mysql,aws,gcp&theme=dark)](https://skillicons.dev)
+[![Some exposure](https://skillicons.dev/icons?i=java,spring,javascript,mysql,aws,gcp&theme=dark)](https://skillicons.dev)
 
 ## 📊 My contributions in 3D
 
 <div align="center">
 
-![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://raw.githubusercontent.com/ThiagoNascBarros/ThiagoNascBarros/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
 
 </div>
 
 ## 🚀 Featured projects
 
-<!-- TODO(Thiago): pick 2-4 repositories and fill in -->
-| Project | Description | Technologies |
-| ------- | --------- | ----------- |
-| [Project name](https://github.com/ThiagoNascBarros/REPO-NAME) | One line explaining what it does | C#, .NET |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThiagoNascBarros/creative-specialist">🎨 Creative Specialist</a></h3>
+      <p>A <a href="https://claude.com/claude-code">Claude Code</a> plugin that gathers the best design skills of the ecosystem in one place: front-end, design systems, visual identity, UI/UX and accessibility.</p>
+      <p><b>38 skills · 7 agents · 4 commands</b></p>
+      <p><img src="https://img.shields.io/badge/Claude%20Code-plugin-D97757?style=flat-square" alt="Claude Code plugin" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ThiagoNascBarros/HostwayParking">🚗 Hostway Parking</a></h3>
+      <p>Full-stack parking management system built for the 3rd stage of Envvio's 2026 selection process: vehicle check-in/check-out, automatic fare calculation and analytical reports (revenue, top vehicles, occupancy rate).</p>
+      <p><b>Layered architecture · unit tests</b></p>
+      <p><img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/Angular%2021-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></p>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Let's talk!
 
