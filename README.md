@@ -55,6 +55,14 @@ I list only what I actually use, grouped by how familiar I am with each one.
       <p><img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/Angular%2021-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ThiagoNascBarros/GitAtlas">🧭 Git Atlas</a></h3>
+      <p>Desktop Git client for Linux: a fast commit graph for large repositories, staging by file and hunk, branches, merges, rebase, stashes (including stashes shared through a Git remote) and an undo/redo journal. Every write goes through the Git CLI.</p>
+      <p><b>Packaged as .deb, AppImage and Flatpak · pt-BR interface · accessibility audit</b></p>
+      <p><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Tauri%202-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri 2" /> <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" /> <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square" alt="Apache-2.0" /></p>
+    </td>
+  </tr>
 </table>
 
 ## 📫 Let's talk!
